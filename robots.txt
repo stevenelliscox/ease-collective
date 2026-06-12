@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theeasecollective.com/sitemap.xml
