@@ -217,7 +217,7 @@ body.nav-open .nav-toggle span:nth-child(3) { transform: translateY(-6.5px) rota
 .av-hero-img img { width: 100%; border-radius: 2px; }
 
 /* badges */
-.badge-rts { background: var(--accent); color: #fff; }
+.card .badge.badge-rts { background: var(--accent); color: #fff; }
 
 /* breadcrumbs */
 .crumbs { font-family: var(--font-head); font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-soft); margin: 0 0 24px; }
